@@ -1,0 +1,23 @@
+Instructions Textures
+
+Placez toutes vos textures dans ce dossier, sous un nom se composant de :
+
+[Nom du modele] - [Nom de la matiere/texture]
+ 
+
+Cela evitera tout les conflits pour les textures du même nom
+
+Exemple : 
+
+1/Je pose une caisse avec une texture que j'appelle bois (sans suivre les instructions), avec tout les parametres réglés niquel 
+ça correspond parfait, le nombres de répétitions, l'angle et tout, etc...
+
+2/Thibault par exemple pose sa barriere avec sa texture qu'il avait appelé bois.
+
+3/ C'est pas la même texture, mais porte le même nom, et du coup ça remplace ma texture de la caisse et ça pourrit tout, donc voila,
+ si on fait comme ça j'pense que ça sera plus facile et ça résoudra un probleme qui n'a aps encore été posé.
+
+
+
+
+Jeyh
